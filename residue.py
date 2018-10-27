@@ -53,14 +53,3 @@ displayCount(seq)
 residueSeq = resShuffle(seqList)
 displayCount(residueSeq)
 
-################################################# Code Dump ##############################################3
-
-#print(seq)
-#print(seq.count('A'), seq.count('C'), seq.count('T'), seq.count('G'))
-#seqList = []
-#for i in seq:
-#	seqList.append(i)
-##print(seqList)
-#seqList = np.random.permutation(seqList)
-#print("".join(seqList))
-#print(seq.count('A'), seq.count('C'), seq.count('T'), seq.count('G'))
