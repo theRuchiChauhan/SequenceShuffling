@@ -61,7 +61,3 @@ segmentSeq = segShuffle(seqList)
 displayCount(segmentSeq)
 print('\n')
 
-################################################## Code Dump #######################################
-	#for key, value in freqDict.items():
-		#print (key, value)
-	#print(freqDict.items())
